@@ -1,0 +1,7 @@
+.banner {
+  display: flex;
+  width: 885px;
+  height: 668px;
+  background-size: cover;
+  background-position: center;
+}

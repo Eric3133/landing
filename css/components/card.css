@@ -1,0 +1,35 @@
+
+.card {
+  width: 230px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px darkgray;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+.card img {
+  width: 150px;
+  padding: 20px;
+}
+
+.card h4 {
+  font-family: Poppins;
+}
+
+.card p {
+  opacity: 0.5;
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.text-center {
+  text-align: center;
+}
